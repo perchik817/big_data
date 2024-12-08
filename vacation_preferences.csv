@@ -1,0 +1,1001 @@
+salary,city,age,vacation_prefer,transport_prefer,target
+54891,Bishkek,60,Shopping,auto,London
+60941,London,23,Cultural,auto,Tokyo
+99912,New York,56,Shopping,bus,Paris
+76386,New York,55,Relaxation,plane,New York
+33791,Moscow,47,Shopping,train,Paris
+71802,Almaty,49,Cultural,auto,London
+57203,London,21,Relaxation,plane,Moscow
+49422,Almaty,65,Cultural,bus,Tokyo
+70650,Bishkek,19,Cultural,train,Tokyo
+72360,London,46,Shopping,plane,New York
+73308,London,27,Shopping,bus,London
+64027,Bishkek,42,Relaxation,bus,London
+96172,Almaty,51,Cultural,bus,Paris
+53261,London,34,Beach holiday,bus,London
+98144,Almaty,67,Beach holiday,auto,Moscow
+56764,New York,65,Adventure,plane,Tokyo
+67473,Bishkek,61,Adventure,plane,Tokyo
+34539,Bishkek,39,Relaxation,plane,London
+55533,New York,24,Cultural,plane,Moscow
+85594,New York,64,Shopping,auto,Tokyo
+97748,Moscow,19,Shopping,auto,Moscow
+39524,Moscow,59,Shopping,bus,Moscow
+40210,Almaty,31,Cultural,bus,Moscow
+64062,Almaty,19,Shopping,plane,London
+66592,Almaty,70,Shopping,train,Tokyo
+94605,Almaty,60,Adventure,train,Tokyo
+41852,Moscow,68,Beach holiday,plane,New York
+79093,Bishkek,38,Adventure,bus,Paris
+62997,Moscow,48,Beach holiday,train,Moscow
+74712,London,19,Shopping,plane,London
+32891,London,46,Relaxation,bus,Paris
+49087,Almaty,57,Cultural,bus,Paris
+68065,London,31,Cultural,train,London
+94655,Almaty,35,Relaxation,bus,Paris
+66583,London,18,Cultural,plane,New York
+49044,London,30,Beach holiday,bus,Paris
+44237,Moscow,46,Cultural,plane,New York
+34666,Moscow,69,Shopping,auto,Moscow
+41667,Almaty,49,Shopping,auto,London
+46720,New York,61,Shopping,auto,London
+78288,New York,56,Relaxation,bus,Moscow
+97642,New York,47,Relaxation,bus,New York
+83451,London,55,Beach holiday,train,Tokyo
+60017,Moscow,34,Cultural,train,Tokyo
+77549,New York,61,Adventure,bus,Tokyo
+71011,Almaty,23,Cultural,bus,Paris
+78818,London,28,Cultural,plane,Moscow
+55444,Moscow,58,Relaxation,plane,Tokyo
+56631,London,37,Beach holiday,auto,Moscow
+39439,Moscow,48,Cultural,plane,Paris
+81518,Almaty,41,Adventure,train,Tokyo
+55034,New York,55,Adventure,plane,Tokyo
+63328,Almaty,68,Cultural,plane,Tokyo
+67389,Bishkek,29,Beach holiday,plane,New York
+41518,Moscow,41,Shopping,auto,Paris
+73783,Almaty,57,Adventure,train,Moscow
+46939,Moscow,54,Relaxation,bus,New York
+64450,Bishkek,60,Relaxation,plane,Moscow
+91372,Almaty,20,Beach holiday,train,Tokyo
+94330,Almaty,67,Beach holiday,bus,London
+56784,Almaty,45,Beach holiday,plane,Tokyo
+94877,Moscow,65,Beach holiday,plane,Tokyo
+51373,Moscow,67,Shopping,auto,London
+39323,Bishkek,34,Beach holiday,bus,Tokyo
+35199,New York,70,Shopping,bus,Paris
+62263,New York,48,Cultural,plane,Moscow
+63593,Bishkek,65,Beach holiday,auto,Moscow
+99974,Bishkek,38,Relaxation,plane,Moscow
+84944,Moscow,28,Cultural,bus,Moscow
+99940,New York,25,Cultural,plane,Moscow
+61345,London,46,Cultural,auto,London
+68833,Moscow,45,Beach holiday,train,New York
+57408,Moscow,50,Relaxation,train,Moscow
+76413,London,58,Beach holiday,bus,Moscow
+80867,London,18,Relaxation,auto,Paris
+42072,New York,38,Relaxation,bus,Moscow
+30905,London,43,Cultural,plane,Tokyo
+70714,Bishkek,48,Beach holiday,train,Moscow
+74343,Bishkek,40,Beach holiday,bus,Moscow
+66011,Almaty,58,Cultural,auto,Moscow
+60415,Almaty,59,Beach holiday,auto,London
+76392,Almaty,27,Adventure,auto,New York
+81189,London,51,Shopping,bus,London
+65086,Almaty,49,Cultural,train,Tokyo
+86086,Moscow,63,Cultural,auto,Paris
+94499,Almaty,41,Shopping,bus,New York
+30411,New York,52,Relaxation,train,Paris
+53868,Moscow,58,Cultural,auto,Paris
+60807,London,65,Relaxation,bus,Tokyo
+47158,Moscow,54,Cultural,train,Paris
+74711,New York,67,Adventure,bus,Moscow
+45889,New York,37,Adventure,auto,Tokyo
+41090,Moscow,54,Adventure,auto,Tokyo
+85728,Moscow,23,Adventure,train,Tokyo
+88673,New York,21,Cultural,plane,Moscow
+62169,London,64,Relaxation,auto,Tokyo
+46016,London,58,Cultural,auto,London
+46296,New York,24,Relaxation,auto,Tokyo
+75762,London,34,Beach holiday,bus,London
+87553,Bishkek,20,Relaxation,bus,London
+39807,New York,35,Shopping,auto,London
+63530,New York,24,Beach holiday,auto,Paris
+62483,Almaty,53,Relaxation,train,Paris
+42098,New York,67,Shopping,train,New York
+35500,New York,47,Shopping,plane,Paris
+93661,Bishkek,20,Relaxation,bus,New York
+57418,New York,40,Beach holiday,train,New York
+61930,Moscow,65,Beach holiday,plane,London
+42550,Moscow,24,Adventure,auto,New York
+57723,Almaty,55,Adventure,train,London
+56406,New York,65,Cultural,auto,New York
+78743,Moscow,62,Relaxation,train,Moscow
+43096,New York,68,Adventure,plane,Tokyo
+97983,Moscow,38,Adventure,auto,Moscow
+91768,Moscow,45,Adventure,auto,New York
+46233,Moscow,57,Relaxation,train,Moscow
+55844,London,33,Shopping,train,Tokyo
+63282,Almaty,60,Cultural,auto,London
+53770,Bishkek,32,Beach holiday,auto,London
+55463,New York,41,Relaxation,auto,Paris
+79272,New York,63,Beach holiday,auto,Moscow
+48664,New York,63,Beach holiday,plane,Paris
+78269,New York,69,Relaxation,auto,Moscow
+67881,Almaty,51,Adventure,bus,Paris
+73548,New York,62,Shopping,bus,London
+37521,Bishkek,67,Adventure,bus,Moscow
+86546,Bishkek,35,Relaxation,plane,Tokyo
+53297,Bishkek,38,Beach holiday,auto,Moscow
+51670,London,70,Adventure,bus,New York
+89597,Bishkek,23,Adventure,plane,Paris
+84702,New York,61,Adventure,train,Tokyo
+43588,London,54,Beach holiday,train,Moscow
+66674,Moscow,47,Adventure,plane,London
+77152,Almaty,18,Relaxation,auto,London
+88962,London,25,Beach holiday,plane,Tokyo
+88849,Moscow,26,Cultural,plane,Paris
+67718,Moscow,58,Shopping,plane,Moscow
+80334,Moscow,37,Cultural,train,New York
+67622,Almaty,57,Shopping,plane,London
+63737,Moscow,67,Beach holiday,train,Paris
+83302,Moscow,35,Shopping,train,London
+95288,Bishkek,23,Cultural,train,Moscow
+78236,Bishkek,56,Shopping,plane,New York
+92535,London,54,Cultural,plane,London
+96015,Bishkek,59,Beach holiday,auto,London
+81615,Bishkek,70,Relaxation,bus,Moscow
+35929,Almaty,52,Adventure,bus,New York
+65960,Moscow,20,Shopping,plane,Moscow
+84644,Almaty,20,Relaxation,auto,London
+70885,Bishkek,22,Adventure,plane,Paris
+54022,Moscow,65,Shopping,auto,Tokyo
+40240,London,66,Relaxation,plane,New York
+82187,Moscow,68,Beach holiday,train,Tokyo
+74101,Almaty,36,Beach holiday,train,Moscow
+53242,Bishkek,21,Shopping,plane,Tokyo
+31951,London,53,Relaxation,plane,Paris
+57504,London,24,Relaxation,train,Moscow
+60062,Moscow,39,Relaxation,plane,Tokyo
+41800,Bishkek,48,Cultural,plane,Tokyo
+92196,New York,27,Adventure,plane,Moscow
+85599,London,53,Adventure,auto,New York
+39652,Moscow,61,Beach holiday,plane,New York
+44987,Moscow,43,Cultural,auto,Moscow
+45552,London,52,Shopping,train,London
+72129,Almaty,25,Beach holiday,train,New York
+85895,Moscow,43,Cultural,auto,Paris
+99127,Bishkek,44,Shopping,plane,Moscow
+37256,Almaty,40,Shopping,plane,New York
+68916,Moscow,41,Shopping,auto,Paris
+39150,Almaty,55,Relaxation,train,Paris
+47127,Almaty,62,Shopping,train,Tokyo
+76628,Moscow,37,Adventure,plane,Tokyo
+79773,Bishkek,64,Adventure,train,Paris
+90500,Bishkek,48,Adventure,bus,New York
+51552,Moscow,54,Cultural,train,Paris
+61659,London,46,Cultural,train,Tokyo
+78329,London,51,Relaxation,auto,Moscow
+84325,New York,48,Cultural,plane,New York
+53667,Almaty,26,Beach holiday,plane,Tokyo
+72288,Bishkek,27,Shopping,auto,Paris
+95431,Bishkek,58,Shopping,auto,Moscow
+90493,Almaty,33,Adventure,train,Moscow
+68726,New York,66,Shopping,plane,London
+60556,New York,67,Relaxation,plane,New York
+86333,Bishkek,62,Shopping,plane,New York
+78850,Bishkek,37,Relaxation,train,New York
+54369,Almaty,45,Cultural,train,Tokyo
+85183,Moscow,37,Adventure,bus,New York
+67656,Moscow,41,Adventure,auto,Paris
+48807,London,68,Adventure,auto,London
+89465,London,34,Beach holiday,plane,New York
+48618,Moscow,58,Shopping,plane,London
+52592,London,22,Cultural,train,New York
+80447,Bishkek,57,Relaxation,bus,Tokyo
+86912,London,61,Adventure,plane,London
+43070,Moscow,38,Beach holiday,train,Moscow
+34384,London,62,Cultural,train,London
+91017,Moscow,65,Cultural,bus,Moscow
+78390,Moscow,46,Beach holiday,auto,Moscow
+33762,Moscow,37,Shopping,plane,Tokyo
+36573,London,37,Relaxation,auto,New York
+52301,Bishkek,44,Adventure,bus,Tokyo
+89651,Almaty,40,Shopping,auto,London
+57111,Bishkek,61,Adventure,auto,Paris
+93949,Moscow,22,Relaxation,auto,Paris
+89804,Moscow,66,Shopping,train,London
+68736,New York,26,Adventure,plane,New York
+92967,London,38,Adventure,auto,Moscow
+31596,Bishkek,19,Shopping,bus,London
+62019,Almaty,48,Cultural,train,Paris
+70244,New York,27,Cultural,plane,Tokyo
+48968,Moscow,47,Shopping,auto,London
+88197,London,35,Relaxation,plane,Tokyo
+87531,Moscow,43,Adventure,plane,New York
+77524,Bishkek,22,Cultural,auto,Paris
+38502,Bishkek,33,Adventure,plane,New York
+38880,Almaty,31,Shopping,train,London
+98214,Almaty,67,Cultural,auto,Tokyo
+46105,Moscow,30,Adventure,bus,Tokyo
+64438,New York,67,Relaxation,train,Moscow
+79123,London,38,Adventure,auto,Tokyo
+31800,Bishkek,52,Adventure,train,New York
+49833,Moscow,59,Beach holiday,plane,Paris
+30298,Moscow,28,Relaxation,plane,London
+69516,New York,51,Shopping,train,Paris
+92066,Moscow,62,Relaxation,auto,Moscow
+99592,Almaty,49,Shopping,train,Tokyo
+94960,London,45,Adventure,auto,Paris
+62237,London,48,Relaxation,train,New York
+85249,Bishkek,22,Cultural,train,New York
+86227,Almaty,48,Cultural,bus,Paris
+41836,Moscow,46,Relaxation,train,New York
+85218,Bishkek,38,Relaxation,train,New York
+72303,Almaty,21,Shopping,bus,Tokyo
+56076,Moscow,35,Beach holiday,auto,London
+71096,New York,63,Relaxation,auto,Tokyo
+48652,Moscow,19,Cultural,auto,London
+68279,Almaty,48,Cultural,train,New York
+69964,New York,49,Beach holiday,plane,Moscow
+42766,New York,70,Cultural,auto,Tokyo
+72744,Bishkek,62,Adventure,bus,Moscow
+72451,Almaty,43,Adventure,plane,Paris
+66501,London,68,Beach holiday,train,London
+55195,London,50,Shopping,plane,Tokyo
+97522,London,27,Shopping,auto,Moscow
+49604,Bishkek,61,Adventure,train,Moscow
+99845,London,69,Relaxation,auto,Paris
+66886,Bishkek,65,Beach holiday,auto,Paris
+52252,Moscow,64,Cultural,auto,London
+53133,Bishkek,62,Beach holiday,auto,London
+94956,Bishkek,32,Cultural,plane,Moscow
+43999,London,50,Adventure,plane,Moscow
+78308,New York,64,Cultural,plane,Tokyo
+41126,New York,46,Relaxation,auto,London
+40282,Almaty,31,Cultural,bus,Tokyo
+37458,Almaty,49,Shopping,bus,Tokyo
+45202,New York,24,Relaxation,auto,Paris
+30985,London,69,Cultural,plane,Paris
+66712,London,64,Adventure,auto,Moscow
+71364,Almaty,55,Cultural,auto,New York
+63160,Bishkek,59,Shopping,train,London
+99356,Moscow,67,Adventure,plane,Tokyo
+47117,London,23,Shopping,plane,Tokyo
+90860,London,47,Shopping,auto,Tokyo
+42230,London,20,Relaxation,plane,Paris
+89543,London,41,Beach holiday,bus,Moscow
+69887,London,52,Cultural,plane,London
+49648,Bishkek,23,Adventure,train,New York
+77789,London,65,Beach holiday,auto,Tokyo
+53059,Almaty,22,Beach holiday,auto,Paris
+99522,Moscow,27,Beach holiday,auto,New York
+46462,Bishkek,22,Shopping,train,Moscow
+48636,Almaty,63,Beach holiday,bus,Paris
+42115,Moscow,35,Adventure,auto,Paris
+42530,Almaty,61,Beach holiday,train,Paris
+96118,Bishkek,32,Cultural,train,Tokyo
+52674,Moscow,20,Cultural,train,Tokyo
+46816,Bishkek,20,Cultural,plane,Moscow
+31796,Moscow,62,Relaxation,train,New York
+62879,New York,63,Relaxation,plane,Moscow
+97072,New York,58,Shopping,train,London
+61822,New York,24,Shopping,bus,Moscow
+88432,Moscow,60,Adventure,bus,New York
+43882,Bishkek,70,Beach holiday,bus,London
+79846,London,54,Shopping,bus,Paris
+81313,Almaty,58,Shopping,bus,Moscow
+81243,Moscow,30,Beach holiday,plane,Paris
+59434,Bishkek,57,Shopping,bus,Moscow
+75310,Bishkek,38,Beach holiday,bus,London
+77198,Moscow,46,Shopping,bus,Paris
+56965,Almaty,51,Relaxation,auto,Paris
+58018,London,35,Adventure,train,Moscow
+61868,Moscow,40,Cultural,bus,London
+81304,Almaty,70,Adventure,auto,New York
+35376,Almaty,23,Cultural,plane,New York
+69063,New York,29,Relaxation,train,Tokyo
+53533,Bishkek,65,Relaxation,bus,New York
+69025,London,55,Cultural,plane,New York
+78185,Moscow,29,Adventure,auto,Paris
+54952,Almaty,18,Relaxation,auto,New York
+69865,Bishkek,22,Beach holiday,bus,Tokyo
+49120,London,52,Shopping,bus,New York
+93141,Bishkek,25,Adventure,bus,New York
+71486,London,61,Shopping,train,London
+69295,New York,57,Adventure,auto,Paris
+85707,Almaty,69,Beach holiday,plane,Paris
+76681,London,39,Relaxation,auto,New York
+74242,Almaty,52,Beach holiday,plane,London
+55439,London,52,Beach holiday,plane,Paris
+79605,London,68,Cultural,plane,Paris
+53533,London,37,Relaxation,train,Tokyo
+96234,Bishkek,63,Relaxation,plane,Paris
+30218,Almaty,69,Shopping,bus,Moscow
+65567,Moscow,29,Beach holiday,auto,Moscow
+77534,Moscow,53,Relaxation,train,Moscow
+75164,Almaty,35,Shopping,plane,London
+95429,Bishkek,68,Cultural,plane,New York
+94884,London,44,Cultural,bus,Moscow
+47494,Almaty,50,Shopping,auto,Paris
+32272,New York,26,Beach holiday,bus,Moscow
+89157,New York,45,Adventure,auto,Tokyo
+53363,Moscow,62,Relaxation,bus,Paris
+93611,London,26,Cultural,plane,Moscow
+74801,London,21,Beach holiday,plane,Moscow
+33113,Moscow,51,Beach holiday,auto,Tokyo
+74219,New York,48,Relaxation,auto,New York
+70744,Moscow,63,Adventure,bus,Paris
+46254,Bishkek,25,Cultural,train,London
+66796,Moscow,69,Shopping,bus,Tokyo
+88166,London,23,Cultural,bus,Tokyo
+82941,Bishkek,34,Relaxation,auto,London
+35717,Bishkek,45,Relaxation,auto,Tokyo
+93309,London,63,Shopping,auto,Paris
+59476,Moscow,42,Cultural,bus,New York
+83921,New York,33,Relaxation,plane,New York
+92144,New York,32,Cultural,bus,Tokyo
+65868,London,28,Adventure,auto,Paris
+40098,New York,30,Shopping,train,Moscow
+67365,Moscow,35,Beach holiday,auto,Paris
+30036,Moscow,35,Cultural,train,New York
+70131,Almaty,31,Shopping,plane,Moscow
+36337,Moscow,63,Cultural,auto,Paris
+87585,London,46,Shopping,plane,New York
+74688,Bishkek,68,Beach holiday,train,Tokyo
+58513,Almaty,26,Cultural,train,Tokyo
+80152,New York,66,Relaxation,train,Moscow
+33843,London,31,Cultural,bus,New York
+54556,Almaty,69,Relaxation,auto,Moscow
+36301,London,28,Cultural,plane,Moscow
+74544,Bishkek,22,Relaxation,train,Moscow
+42846,Bishkek,59,Beach holiday,plane,Tokyo
+42269,Almaty,59,Shopping,train,Paris
+78605,London,57,Relaxation,plane,Tokyo
+75517,Bishkek,42,Beach holiday,plane,Tokyo
+50357,Bishkek,57,Cultural,train,New York
+63519,Almaty,51,Shopping,train,London
+92023,London,69,Beach holiday,train,New York
+47899,Bishkek,65,Adventure,train,Moscow
+65504,Bishkek,52,Beach holiday,bus,Paris
+40766,Moscow,45,Relaxation,bus,London
+42400,Bishkek,50,Beach holiday,plane,Moscow
+94101,New York,60,Shopping,bus,Paris
+32817,Moscow,32,Relaxation,bus,Moscow
+54810,Almaty,62,Shopping,plane,Tokyo
+41317,New York,45,Beach holiday,train,New York
+54715,Almaty,54,Cultural,plane,Paris
+98954,Moscow,20,Adventure,plane,Tokyo
+36662,London,54,Adventure,train,New York
+88170,London,20,Relaxation,bus,New York
+82623,Moscow,48,Relaxation,train,New York
+41441,Moscow,38,Adventure,plane,Moscow
+76210,Bishkek,24,Adventure,train,New York
+30804,London,53,Cultural,train,New York
+80491,Bishkek,37,Cultural,auto,Moscow
+70100,Moscow,33,Adventure,train,New York
+92697,Moscow,63,Shopping,plane,Paris
+39337,Bishkek,22,Cultural,plane,Paris
+93385,Almaty,49,Beach holiday,bus,Paris
+34650,London,26,Cultural,auto,Tokyo
+67140,Bishkek,24,Shopping,plane,New York
+90563,Bishkek,22,Relaxation,train,Tokyo
+62772,London,60,Relaxation,train,Tokyo
+31707,New York,43,Relaxation,plane,Tokyo
+47970,Bishkek,18,Shopping,auto,London
+87295,New York,60,Cultural,bus,Paris
+61402,New York,32,Shopping,plane,New York
+81653,London,67,Relaxation,auto,New York
+74195,Moscow,41,Adventure,train,Paris
+57225,London,66,Relaxation,bus,New York
+51472,Bishkek,63,Adventure,plane,New York
+63847,London,68,Beach holiday,plane,London
+99804,Moscow,39,Relaxation,auto,Moscow
+30134,London,65,Beach holiday,plane,London
+63647,Almaty,45,Relaxation,bus,London
+58053,London,51,Shopping,plane,London
+46193,Moscow,35,Relaxation,plane,Moscow
+36514,Moscow,24,Beach holiday,bus,New York
+92493,Bishkek,68,Cultural,train,Moscow
+74102,Moscow,18,Beach holiday,train,Moscow
+94127,Almaty,51,Relaxation,auto,Paris
+46873,Moscow,65,Adventure,bus,New York
+56576,Moscow,43,Adventure,train,London
+48157,Moscow,40,Shopping,bus,Tokyo
+96366,Bishkek,26,Shopping,auto,Moscow
+89936,Moscow,52,Adventure,plane,Tokyo
+71867,Almaty,43,Cultural,bus,Paris
+98798,London,57,Cultural,plane,Moscow
+70384,Almaty,27,Cultural,auto,Tokyo
+30480,Moscow,39,Beach holiday,bus,Paris
+68938,Bishkek,48,Beach holiday,bus,Paris
+68235,London,20,Cultural,bus,New York
+70304,Moscow,28,Cultural,train,Moscow
+70693,New York,48,Adventure,plane,Paris
+53620,Almaty,25,Relaxation,plane,New York
+50851,New York,64,Relaxation,bus,Tokyo
+77996,Almaty,35,Adventure,auto,Moscow
+94131,Moscow,31,Adventure,bus,London
+98358,London,46,Adventure,bus,London
+81492,Almaty,66,Cultural,plane,Tokyo
+70498,Bishkek,27,Relaxation,bus,Paris
+76529,Bishkek,34,Beach holiday,bus,Tokyo
+60995,London,64,Shopping,train,Tokyo
+99512,New York,44,Beach holiday,bus,Paris
+83858,Bishkek,54,Cultural,auto,Paris
+60132,Moscow,38,Beach holiday,train,London
+49360,Moscow,30,Beach holiday,bus,London
+58923,Bishkek,49,Cultural,auto,Moscow
+91510,Moscow,54,Shopping,auto,London
+36170,Moscow,51,Adventure,auto,Tokyo
+43315,Almaty,44,Shopping,plane,Paris
+37293,New York,35,Adventure,bus,Tokyo
+94241,Almaty,56,Beach holiday,plane,New York
+44476,Moscow,63,Cultural,bus,London
+42451,Bishkek,55,Beach holiday,bus,London
+84151,London,63,Beach holiday,auto,Paris
+41809,Moscow,30,Adventure,train,Tokyo
+94643,New York,61,Shopping,plane,New York
+93681,Moscow,29,Cultural,train,Moscow
+64866,London,22,Adventure,bus,Moscow
+53554,Moscow,47,Cultural,plane,Paris
+36693,Bishkek,70,Cultural,plane,Paris
+64019,London,60,Shopping,auto,London
+52439,Bishkek,55,Shopping,plane,Paris
+37286,Almaty,68,Shopping,auto,Paris
+58368,Almaty,56,Adventure,auto,Tokyo
+61638,Almaty,41,Adventure,train,Moscow
+86413,New York,37,Shopping,bus,Moscow
+57282,Almaty,26,Beach holiday,train,Tokyo
+37013,Moscow,29,Shopping,bus,Tokyo
+70369,London,35,Adventure,auto,Tokyo
+80693,London,34,Relaxation,auto,New York
+87085,Moscow,25,Shopping,plane,New York
+43593,Bishkek,53,Beach holiday,train,Moscow
+38058,London,27,Shopping,bus,New York
+71522,London,58,Shopping,auto,Moscow
+57785,New York,37,Adventure,plane,Tokyo
+37551,New York,32,Shopping,bus,London
+47541,New York,35,Cultural,train,Tokyo
+87698,Moscow,65,Relaxation,auto,New York
+73129,Moscow,36,Adventure,plane,New York
+70088,Bishkek,41,Beach holiday,bus,Tokyo
+95874,Moscow,65,Cultural,bus,Paris
+94238,New York,52,Adventure,train,Paris
+57707,New York,46,Adventure,auto,Paris
+31487,New York,64,Beach holiday,auto,London
+44057,London,34,Relaxation,plane,New York
+68810,Bishkek,41,Shopping,bus,Paris
+90869,London,18,Adventure,bus,Paris
+59760,New York,28,Adventure,plane,Paris
+87511,New York,70,Cultural,plane,Paris
+64650,Moscow,24,Cultural,bus,Moscow
+91338,Moscow,49,Shopping,auto,Paris
+48919,Bishkek,27,Relaxation,auto,Moscow
+56084,Bishkek,45,Adventure,plane,Paris
+45510,Moscow,63,Shopping,plane,Moscow
+92783,London,19,Adventure,train,New York
+90341,Bishkek,30,Beach holiday,train,Moscow
+59441,Almaty,41,Beach holiday,bus,Paris
+46649,Almaty,58,Relaxation,bus,New York
+53252,New York,33,Shopping,plane,Tokyo
+31461,Moscow,63,Beach holiday,plane,Tokyo
+74777,Almaty,62,Shopping,bus,London
+71880,Almaty,35,Beach holiday,auto,New York
+64764,London,61,Beach holiday,bus,Paris
+99833,Almaty,24,Relaxation,auto,Moscow
+71545,London,59,Relaxation,train,Moscow
+69569,Moscow,25,Relaxation,train,New York
+93077,London,49,Cultural,auto,Paris
+62513,Bishkek,48,Relaxation,bus,Moscow
+94684,London,47,Cultural,plane,London
+62940,Almaty,45,Shopping,auto,New York
+78466,London,60,Shopping,auto,Tokyo
+43409,Almaty,51,Relaxation,train,Paris
+44616,Bishkek,19,Shopping,plane,New York
+76857,Bishkek,66,Adventure,train,Paris
+41999,Almaty,47,Adventure,bus,New York
+42009,Bishkek,53,Cultural,auto,Tokyo
+30911,New York,42,Shopping,plane,London
+50014,New York,66,Cultural,plane,Paris
+37189,London,59,Shopping,plane,New York
+44237,Bishkek,43,Shopping,train,London
+50522,Almaty,32,Adventure,train,Paris
+56152,London,39,Relaxation,bus,Tokyo
+85431,Moscow,39,Cultural,bus,Moscow
+38111,London,53,Shopping,auto,Moscow
+96379,Moscow,27,Shopping,train,New York
+32458,New York,50,Adventure,bus,New York
+50726,Almaty,61,Relaxation,bus,Moscow
+43812,Moscow,61,Shopping,plane,New York
+94038,Bishkek,21,Adventure,auto,Paris
+94923,Almaty,50,Cultural,plane,New York
+80230,New York,35,Adventure,train,London
+35916,New York,48,Relaxation,train,New York
+67117,New York,43,Shopping,auto,London
+81389,Bishkek,64,Shopping,auto,Moscow
+42472,Almaty,29,Cultural,plane,London
+97447,Moscow,46,Beach holiday,bus,Paris
+53426,London,49,Beach holiday,train,London
+61852,Moscow,68,Adventure,auto,Moscow
+45783,Moscow,50,Relaxation,auto,Tokyo
+49178,London,67,Relaxation,plane,Moscow
+47797,Almaty,49,Relaxation,auto,Moscow
+37923,London,69,Cultural,plane,New York
+46059,New York,27,Shopping,train,New York
+38921,Bishkek,19,Beach holiday,plane,London
+51720,Almaty,40,Adventure,bus,Paris
+95261,Moscow,45,Relaxation,plane,London
+80283,Moscow,69,Relaxation,train,Tokyo
+62178,New York,22,Shopping,bus,New York
+87450,Bishkek,36,Beach holiday,train,London
+31172,Moscow,56,Relaxation,plane,Paris
+37581,New York,51,Beach holiday,train,Moscow
+65999,Almaty,18,Shopping,plane,Tokyo
+63592,Bishkek,70,Shopping,train,Tokyo
+54359,Bishkek,19,Relaxation,train,New York
+93262,Almaty,27,Cultural,train,London
+40996,London,25,Adventure,auto,London
+52228,Almaty,29,Cultural,train,Tokyo
+56041,Moscow,36,Adventure,train,Paris
+48694,Bishkek,64,Beach holiday,bus,Moscow
+92043,Bishkek,47,Cultural,auto,London
+81687,London,18,Relaxation,plane,Paris
+88582,Almaty,21,Beach holiday,auto,Tokyo
+31476,London,31,Relaxation,train,Tokyo
+44175,Moscow,24,Relaxation,bus,Moscow
+54406,London,68,Adventure,train,Paris
+78188,Almaty,21,Relaxation,plane,Tokyo
+62947,Moscow,40,Cultural,train,Paris
+46088,Moscow,41,Relaxation,plane,Tokyo
+67518,Almaty,47,Adventure,auto,Tokyo
+63206,New York,43,Shopping,auto,New York
+65191,New York,55,Shopping,plane,Paris
+41788,London,52,Shopping,plane,New York
+60496,Moscow,41,Relaxation,train,London
+90297,Moscow,35,Adventure,bus,Moscow
+43668,Bishkek,70,Relaxation,auto,London
+91058,London,67,Shopping,plane,New York
+82853,New York,68,Beach holiday,auto,London
+95039,Almaty,56,Relaxation,bus,London
+31054,Almaty,29,Adventure,auto,Tokyo
+55508,Bishkek,57,Shopping,train,Moscow
+78430,Almaty,31,Relaxation,bus,New York
+62459,Almaty,64,Shopping,auto,Moscow
+30647,Almaty,49,Shopping,auto,Moscow
+34316,Moscow,70,Shopping,train,Tokyo
+46778,Almaty,69,Cultural,train,Tokyo
+86858,New York,27,Shopping,train,Moscow
+73858,London,36,Relaxation,train,Paris
+69039,New York,24,Adventure,train,New York
+54508,Bishkek,43,Relaxation,bus,London
+30831,Moscow,43,Cultural,bus,Paris
+34209,London,67,Relaxation,plane,New York
+54369,New York,28,Relaxation,plane,Moscow
+49991,Almaty,64,Beach holiday,bus,London
+93196,Almaty,54,Shopping,auto,New York
+81002,New York,66,Shopping,bus,New York
+91840,London,57,Beach holiday,auto,Tokyo
+51922,New York,52,Beach holiday,plane,New York
+48685,Moscow,58,Adventure,bus,Tokyo
+85175,London,27,Beach holiday,plane,Paris
+62128,Bishkek,50,Adventure,bus,London
+96243,Almaty,27,Adventure,train,London
+85383,London,54,Beach holiday,bus,London
+34428,Moscow,36,Shopping,bus,London
+77290,New York,63,Beach holiday,bus,Tokyo
+95128,New York,50,Relaxation,plane,Moscow
+47641,Almaty,28,Beach holiday,auto,Paris
+49590,Bishkek,21,Relaxation,train,New York
+47340,London,61,Beach holiday,plane,London
+38475,London,18,Beach holiday,train,London
+32569,New York,65,Cultural,bus,Paris
+32535,Moscow,47,Cultural,auto,New York
+73239,Almaty,63,Cultural,bus,Moscow
+81003,Moscow,25,Shopping,bus,Tokyo
+59363,London,31,Cultural,auto,Paris
+41118,New York,35,Cultural,bus,Moscow
+57168,London,57,Adventure,train,New York
+60139,Moscow,47,Adventure,train,Moscow
+81306,Moscow,39,Adventure,plane,Moscow
+60656,New York,31,Adventure,bus,Tokyo
+60606,New York,44,Beach holiday,train,Tokyo
+46951,Bishkek,39,Beach holiday,plane,Tokyo
+39179,Bishkek,38,Cultural,bus,Paris
+48722,Almaty,62,Cultural,bus,Moscow
+64794,London,65,Cultural,plane,Tokyo
+36807,London,25,Shopping,auto,Paris
+84774,Bishkek,38,Beach holiday,bus,Tokyo
+58248,Bishkek,56,Cultural,auto,Moscow
+71613,New York,22,Relaxation,bus,New York
+98832,Almaty,60,Adventure,plane,Moscow
+99728,Moscow,44,Relaxation,auto,London
+53898,London,26,Relaxation,bus,Paris
+49272,Bishkek,66,Cultural,plane,New York
+76351,Almaty,64,Beach holiday,train,Tokyo
+32120,New York,41,Beach holiday,bus,London
+67537,London,59,Beach holiday,plane,Paris
+92466,Bishkek,46,Shopping,bus,Moscow
+64026,Moscow,66,Cultural,plane,Paris
+58677,Moscow,24,Beach holiday,train,Paris
+42035,Moscow,42,Adventure,plane,Paris
+87206,New York,36,Relaxation,auto,New York
+54922,Almaty,70,Cultural,train,Tokyo
+75619,London,52,Shopping,plane,New York
+77335,London,28,Shopping,plane,Moscow
+49483,New York,38,Relaxation,plane,New York
+44030,Bishkek,49,Shopping,plane,Moscow
+81469,Moscow,51,Relaxation,train,London
+37514,London,19,Cultural,plane,London
+95055,New York,44,Adventure,plane,Tokyo
+42269,Bishkek,63,Cultural,bus,London
+62882,London,51,Relaxation,bus,New York
+97072,Moscow,27,Shopping,train,Tokyo
+63471,New York,54,Shopping,auto,London
+36902,Bishkek,36,Relaxation,auto,Tokyo
+51036,London,47,Beach holiday,bus,Paris
+47130,Almaty,63,Adventure,auto,New York
+67469,New York,32,Shopping,bus,London
+91235,Almaty,58,Adventure,train,Tokyo
+45893,Bishkek,57,Relaxation,auto,Paris
+92616,Almaty,57,Shopping,bus,Tokyo
+97835,London,54,Cultural,plane,New York
+51280,New York,31,Shopping,bus,London
+86893,Almaty,27,Cultural,bus,New York
+50316,London,27,Beach holiday,plane,Paris
+79938,New York,29,Adventure,bus,Paris
+79227,Almaty,55,Beach holiday,train,Tokyo
+66540,Moscow,55,Adventure,plane,Paris
+45853,New York,40,Beach holiday,plane,New York
+39801,Almaty,46,Adventure,bus,Tokyo
+47350,New York,25,Beach holiday,auto,Tokyo
+86190,Moscow,56,Relaxation,train,New York
+65295,London,27,Shopping,train,New York
+38752,Bishkek,41,Shopping,plane,London
+48372,Bishkek,29,Relaxation,auto,Tokyo
+86120,Almaty,33,Relaxation,train,Tokyo
+75995,London,68,Beach holiday,plane,Tokyo
+80201,Bishkek,67,Cultural,auto,Moscow
+30627,London,68,Shopping,auto,Paris
+87523,Bishkek,50,Relaxation,train,London
+58472,Moscow,25,Beach holiday,auto,New York
+55170,New York,54,Beach holiday,plane,Moscow
+46873,Bishkek,25,Beach holiday,bus,Tokyo
+54068,New York,57,Beach holiday,train,Moscow
+51510,Moscow,43,Shopping,bus,Moscow
+75571,Bishkek,37,Beach holiday,bus,London
+85534,Almaty,19,Shopping,plane,London
+55437,Moscow,20,Shopping,train,Paris
+33758,Bishkek,23,Shopping,bus,Paris
+48238,Bishkek,50,Cultural,bus,London
+97562,Moscow,18,Beach holiday,auto,London
+90233,London,46,Shopping,bus,Tokyo
+73068,New York,44,Cultural,bus,New York
+33757,Bishkek,55,Shopping,bus,New York
+61107,Almaty,53,Cultural,auto,New York
+51870,London,58,Adventure,plane,New York
+61282,Moscow,63,Relaxation,plane,Tokyo
+68982,London,28,Adventure,train,New York
+72910,London,37,Relaxation,bus,Moscow
+49013,Almaty,56,Beach holiday,plane,London
+56926,Bishkek,40,Adventure,auto,Paris
+93979,Bishkek,29,Relaxation,bus,London
+75884,London,34,Beach holiday,train,London
+82508,Moscow,48,Cultural,train,Moscow
+88316,Moscow,21,Cultural,plane,Moscow
+32899,Bishkek,25,Adventure,bus,Paris
+49023,Almaty,23,Beach holiday,bus,Paris
+91217,Moscow,52,Beach holiday,train,Tokyo
+58313,Bishkek,49,Adventure,bus,New York
+43308,New York,55,Shopping,bus,London
+78024,New York,40,Adventure,auto,Paris
+65621,Bishkek,28,Shopping,train,Tokyo
+42502,London,24,Adventure,train,New York
+93147,New York,67,Cultural,auto,Tokyo
+59406,London,61,Shopping,auto,New York
+71146,New York,30,Relaxation,bus,Tokyo
+97675,Bishkek,54,Beach holiday,train,Paris
+51556,Almaty,47,Shopping,bus,Moscow
+33803,London,32,Shopping,auto,London
+56941,London,38,Beach holiday,auto,Tokyo
+84156,London,52,Shopping,auto,New York
+45983,Almaty,35,Relaxation,train,London
+62294,Almaty,40,Cultural,auto,Moscow
+43347,London,38,Beach holiday,auto,Moscow
+42616,Moscow,24,Relaxation,train,New York
+60480,London,65,Cultural,bus,Paris
+73368,London,31,Adventure,train,New York
+81592,Bishkek,41,Relaxation,plane,New York
+50893,London,64,Shopping,bus,Paris
+65029,London,54,Adventure,bus,London
+51287,Almaty,19,Adventure,auto,New York
+52757,Moscow,51,Relaxation,train,New York
+72613,New York,61,Cultural,plane,Paris
+85470,London,21,Cultural,plane,London
+90348,Moscow,64,Beach holiday,auto,Paris
+73391,Bishkek,29,Beach holiday,bus,Paris
+77455,Moscow,23,Cultural,auto,London
+74518,London,49,Relaxation,train,New York
+99261,Almaty,33,Cultural,plane,London
+84820,Almaty,24,Adventure,bus,New York
+59619,Bishkek,38,Adventure,bus,Tokyo
+30630,London,20,Shopping,train,New York
+79971,Almaty,41,Shopping,bus,Moscow
+84675,New York,46,Adventure,auto,New York
+86075,London,47,Cultural,auto,Moscow
+50204,Moscow,68,Shopping,plane,New York
+79988,Moscow,31,Cultural,auto,Tokyo
+83113,London,24,Shopping,auto,Tokyo
+63489,Almaty,62,Cultural,train,Tokyo
+90673,Moscow,26,Beach holiday,auto,Paris
+59997,Almaty,44,Shopping,train,New York
+89027,Moscow,56,Adventure,train,London
+43804,London,46,Shopping,bus,Paris
+67743,New York,54,Adventure,auto,New York
+90121,Almaty,54,Shopping,auto,Tokyo
+77033,New York,36,Adventure,auto,New York
+45547,Almaty,28,Relaxation,bus,Paris
+64789,Almaty,68,Cultural,auto,Tokyo
+31993,Bishkek,31,Relaxation,bus,New York
+95821,Moscow,61,Shopping,train,London
+50165,London,48,Shopping,bus,London
+91823,New York,22,Shopping,plane,London
+38930,London,64,Beach holiday,auto,Tokyo
+84633,Moscow,37,Relaxation,auto,Tokyo
+40565,New York,61,Adventure,train,Moscow
+77940,London,48,Relaxation,bus,Tokyo
+30566,New York,69,Relaxation,train,London
+75049,Bishkek,59,Shopping,train,Moscow
+62016,Almaty,24,Cultural,train,Tokyo
+76942,Almaty,27,Beach holiday,auto,Paris
+72740,Almaty,38,Relaxation,train,London
+61556,Almaty,55,Cultural,auto,New York
+77198,Moscow,30,Relaxation,bus,New York
+44205,Moscow,43,Beach holiday,bus,London
+36834,London,21,Relaxation,plane,London
+48555,Moscow,36,Shopping,train,Paris
+51326,London,35,Relaxation,train,New York
+77918,Moscow,41,Cultural,bus,New York
+86907,New York,35,Shopping,train,New York
+33427,London,63,Cultural,bus,London
+71919,New York,21,Beach holiday,bus,London
+71339,London,52,Adventure,plane,London
+68421,New York,38,Shopping,plane,New York
+95159,Bishkek,37,Shopping,train,Moscow
+30228,Almaty,62,Beach holiday,train,New York
+49050,New York,60,Adventure,plane,Tokyo
+58861,Moscow,19,Relaxation,bus,London
+58127,London,57,Beach holiday,plane,London
+94522,Bishkek,46,Beach holiday,plane,Paris
+80863,New York,60,Beach holiday,auto,London
+47528,Moscow,39,Cultural,auto,London
+92427,Moscow,46,Shopping,train,Moscow
+88764,Moscow,31,Cultural,train,New York
+42795,London,31,Relaxation,auto,Tokyo
+45719,Moscow,45,Shopping,train,New York
+97514,New York,26,Shopping,bus,New York
+33743,Bishkek,25,Cultural,plane,Moscow
+55332,Bishkek,65,Relaxation,plane,London
+51976,Moscow,35,Cultural,auto,Paris
+67732,Moscow,47,Shopping,train,Tokyo
+74888,London,34,Relaxation,train,New York
+67525,Bishkek,70,Adventure,auto,New York
+75374,Moscow,60,Beach holiday,train,Paris
+64694,New York,66,Adventure,train,London
+38762,Bishkek,57,Cultural,bus,New York
+48334,New York,58,Adventure,bus,New York
+31091,Bishkek,50,Adventure,train,Tokyo
+62313,Bishkek,26,Cultural,auto,London
+49165,Bishkek,19,Beach holiday,plane,London
+62451,New York,69,Adventure,plane,New York
+34092,Almaty,35,Cultural,train,Moscow
+97483,New York,39,Beach holiday,auto,London
+72683,London,39,Cultural,bus,Tokyo
+83965,Moscow,61,Adventure,auto,Paris
+83936,Bishkek,69,Cultural,train,London
+52616,Bishkek,37,Relaxation,bus,Tokyo
+49392,Bishkek,33,Relaxation,train,New York
+64308,Bishkek,66,Shopping,auto,Tokyo
+59197,New York,64,Adventure,train,Moscow
+69288,London,22,Adventure,auto,Tokyo
+35733,Moscow,55,Relaxation,bus,New York
+99958,Almaty,32,Relaxation,bus,Tokyo
+93730,London,37,Relaxation,plane,Moscow
+36112,London,21,Beach holiday,train,Paris
+96664,Almaty,39,Cultural,plane,New York
+54973,Almaty,50,Beach holiday,bus,Paris
+37147,London,48,Cultural,plane,London
+55515,London,60,Shopping,auto,Moscow
+63468,London,65,Cultural,auto,Paris
+65978,Almaty,20,Adventure,auto,Moscow
+32262,Bishkek,60,Shopping,train,London
+94702,Almaty,69,Adventure,train,Moscow
+44485,Almaty,20,Shopping,plane,London
+68800,Bishkek,21,Shopping,auto,Tokyo
+93630,Moscow,27,Cultural,train,Paris
+88594,Bishkek,29,Cultural,bus,Tokyo
+69153,Moscow,54,Cultural,bus,London
+38124,London,65,Beach holiday,bus,Moscow
+53890,New York,59,Beach holiday,auto,Paris
+98836,Bishkek,44,Shopping,bus,Tokyo
+44208,Almaty,37,Adventure,plane,Tokyo
+99329,Moscow,42,Shopping,plane,Moscow
+74188,Moscow,53,Beach holiday,auto,Moscow
+35428,New York,63,Shopping,auto,Tokyo
+81336,Moscow,50,Relaxation,train,Tokyo
+48189,Bishkek,37,Adventure,auto,New York
+61635,Bishkek,64,Cultural,plane,Tokyo
+66087,Almaty,39,Adventure,plane,Tokyo
+95987,Bishkek,31,Relaxation,plane,Moscow
+74813,Moscow,23,Relaxation,auto,Tokyo
+46706,New York,68,Relaxation,auto,Tokyo
+44811,London,46,Cultural,bus,Moscow
+74546,Almaty,46,Adventure,train,Tokyo
+92804,London,66,Adventure,plane,Paris
+33231,Moscow,43,Shopping,plane,London
+71652,Almaty,58,Cultural,bus,Moscow
+99541,Bishkek,27,Adventure,auto,New York
+94047,Bishkek,50,Shopping,bus,Paris
+40231,London,68,Cultural,train,New York
+66998,Moscow,24,Relaxation,auto,Tokyo
+30261,Almaty,35,Adventure,plane,Moscow
+95948,New York,65,Cultural,train,London
+88588,Bishkek,23,Shopping,train,Moscow
+99395,New York,63,Shopping,train,Paris
+81885,London,58,Relaxation,auto,Tokyo
+83878,New York,69,Shopping,train,Moscow
+30121,Moscow,64,Cultural,plane,Moscow
+76473,Moscow,64,Shopping,bus,London
+71281,London,29,Beach holiday,auto,Tokyo
+43420,Bishkek,25,Cultural,plane,London
+31458,Bishkek,39,Adventure,plane,London
+36777,Almaty,45,Adventure,auto,Paris
+89029,Bishkek,31,Shopping,auto,London
+98668,Bishkek,61,Cultural,train,Tokyo
+59281,Moscow,43,Cultural,plane,Moscow
+54698,New York,22,Shopping,bus,New York
+85121,Bishkek,64,Beach holiday,bus,Tokyo
+50751,Moscow,50,Relaxation,plane,Paris
+34504,Almaty,36,Beach holiday,auto,London
+33929,Moscow,60,Shopping,bus,New York
+83226,Moscow,18,Relaxation,bus,London
+47767,Almaty,52,Relaxation,plane,New York
+71086,New York,43,Beach holiday,plane,Tokyo
+84974,Moscow,46,Beach holiday,bus,New York
+83800,Bishkek,59,Relaxation,train,Tokyo
+79851,New York,25,Relaxation,auto,Paris
+31446,Almaty,63,Relaxation,plane,London
+76843,Moscow,59,Beach holiday,bus,Paris
+37113,New York,21,Adventure,train,London
+80969,Moscow,32,Shopping,plane,London
+31962,Almaty,40,Adventure,plane,New York
+78132,New York,45,Adventure,plane,Paris
+66724,Bishkek,67,Relaxation,plane,Paris
+51052,London,70,Beach holiday,auto,Tokyo
+47870,Moscow,32,Adventure,train,London
+47575,London,27,Shopping,bus,Tokyo
+61878,London,47,Cultural,plane,New York
+47944,New York,58,Shopping,plane,Moscow
+37674,Bishkek,70,Shopping,train,Paris
+32560,New York,67,Shopping,plane,Paris
+75549,Bishkek,32,Cultural,train,New York
+40675,New York,47,Beach holiday,auto,New York
+81245,Moscow,24,Relaxation,plane,Tokyo
+33901,Moscow,39,Cultural,plane,Tokyo
+90619,London,50,Beach holiday,plane,London
+84467,Bishkek,44,Cultural,bus,Moscow
+84546,Moscow,52,Cultural,bus,Tokyo
+48913,London,68,Shopping,bus,Tokyo
+59562,New York,20,Relaxation,train,New York
+54086,New York,18,Beach holiday,bus,Tokyo
+60542,Moscow,57,Shopping,plane,Tokyo
+96733,London,69,Beach holiday,bus,Tokyo
+30700,Bishkek,59,Cultural,plane,London
+67113,Moscow,31,Adventure,bus,Paris
+75231,London,39,Relaxation,train,Paris
+59830,Almaty,38,Relaxation,auto,London
+78324,Almaty,57,Cultural,auto,New York
+76888,Bishkek,19,Relaxation,train,Moscow
+61877,Almaty,23,Cultural,plane,Paris
+73966,Moscow,47,Adventure,plane,New York
+69122,Moscow,38,Shopping,bus,Tokyo
+65552,Bishkek,36,Adventure,plane,Moscow
+79443,Bishkek,41,Beach holiday,auto,London
+68401,Moscow,66,Shopping,bus,Paris
+61913,Bishkek,36,Beach holiday,auto,Paris
+50094,New York,51,Shopping,train,Paris
+76614,Bishkek,25,Adventure,bus,Paris
+40524,Almaty,47,Relaxation,train,Moscow
+82713,New York,67,Relaxation,plane,Moscow
+78770,London,69,Relaxation,train,London
+64711,New York,53,Relaxation,train,Paris
+64820,Moscow,26,Relaxation,train,New York
+99725,Almaty,38,Shopping,plane,Tokyo
+57372,Almaty,35,Adventure,bus,Tokyo
+77577,Almaty,64,Adventure,plane,London
+99078,Bishkek,52,Relaxation,bus,New York
+65336,Almaty,37,Relaxation,auto,Tokyo
+54057,New York,38,Adventure,bus,London
+95326,London,27,Cultural,plane,Moscow
+61855,Bishkek,52,Cultural,auto,Paris
+70429,London,25,Shopping,plane,Tokyo
+77908,Moscow,47,Shopping,auto,New York
+64342,London,29,Adventure,train,Tokyo
+37967,Bishkek,42,Adventure,auto,London
+34370,Bishkek,20,Adventure,bus,Tokyo
+61487,Almaty,36,Cultural,plane,New York
+59810,London,20,Cultural,train,London
+86850,London,65,Cultural,plane,Paris
+93802,Bishkek,33,Beach holiday,train,London
+89629,Almaty,55,Relaxation,plane,New York
+74333,Almaty,69,Relaxation,bus,New York
+92857,Bishkek,38,Relaxation,plane,Moscow
+32344,Moscow,27,Shopping,auto,Tokyo
+94866,Moscow,61,Shopping,bus,Tokyo
+85063,Almaty,41,Relaxation,auto,Tokyo
+63607,Moscow,36,Relaxation,plane,Paris
+87271,Almaty,35,Adventure,auto,London
+62737,Almaty,65,Cultural,bus,Tokyo
+72187,Bishkek,69,Cultural,train,New York
+81040,London,35,Cultural,auto,London
+85225,Bishkek,32,Shopping,plane,New York
+90815,London,57,Adventure,auto,Moscow
+77750,Bishkek,53,Beach holiday,train,Tokyo
+63706,New York,20,Cultural,train,London
+97234,Moscow,34,Beach holiday,train,Moscow
+57939,Almaty,64,Cultural,auto,Paris
+42527,Almaty,57,Beach holiday,bus,Paris
+32544,Moscow,61,Cultural,bus,Moscow
+96111,Moscow,62,Shopping,plane,Tokyo
+53094,New York,21,Adventure,train,Moscow
+38879,Moscow,42,Shopping,train,Tokyo
+39036,New York,60,Shopping,train,Tokyo
+52038,New York,39,Beach holiday,plane,London
+88963,Bishkek,51,Adventure,bus,Moscow
+35096,New York,24,Beach holiday,bus,Moscow
+34769,Bishkek,40,Beach holiday,plane,Moscow
+36341,New York,28,Adventure,train,New York
+99000,Bishkek,45,Cultural,bus,London
+42016,Bishkek,36,Shopping,plane,Tokyo
+47657,Almaty,67,Relaxation,train,London
+68777,Almaty,36,Adventure,plane,New York
+58325,London,53,Cultural,auto,Paris
+83914,London,30,Relaxation,auto,Paris
+86558,Bishkek,28,Cultural,auto,Moscow
+50894,Moscow,44,Relaxation,auto,New York
+77842,London,61,Beach holiday,plane,Tokyo
+39947,Almaty,44,Shopping,plane,Tokyo
+89392,New York,61,Relaxation,auto,London
+53644,Almaty,29,Relaxation,auto,Tokyo
+80244,Moscow,29,Cultural,bus,New York
+77784,Almaty,47,Beach holiday,bus,Paris
+35405,New York,25,Relaxation,bus,New York
+91068,Moscow,31,Shopping,train,New York
+31887,New York,68,Adventure,train,London
+48705,Almaty,52,Beach holiday,auto,Tokyo
+68127,Almaty,44,Shopping,auto,Moscow
+88158,Moscow,35,Relaxation,bus,Tokyo
+35401,London,67,Shopping,bus,Moscow
+62204,Bishkek,68,Adventure,bus,Moscow
+73478,London,38,Shopping,train,London
+81372,New York,42,Shopping,plane,Moscow
+73107,Almaty,40,Adventure,train,Paris
+34521,Bishkek,58,Beach holiday,train,Tokyo
+40325,Bishkek,43,Adventure,train,New York
+51917,Moscow,49,Adventure,auto,New York
+78926,Moscow,30,Cultural,train,Tokyo
+58498,Almaty,24,Beach holiday,bus,London
+61828,Moscow,49,Relaxation,plane,Moscow
+72410,Almaty,67,Shopping,bus,New York
+65486,Almaty,36,Shopping,bus,Tokyo
+52386,Bishkek,44,Beach holiday,bus,Paris
+93144,London,69,Cultural,bus,New York
+85643,New York,53,Relaxation,bus,Tokyo
+42722,New York,43,Shopping,auto,New York
+94907,Moscow,43,Beach holiday,auto,London
+81231,London,29,Cultural,train,New York
+81219,London,29,Beach holiday,auto,Moscow
+60478,New York,63,Adventure,bus,Tokyo
+52214,Bishkek,55,Cultural,bus,London
+55501,Almaty,21,Shopping,plane,New York
+74052,Almaty,61,Beach holiday,auto,Tokyo
